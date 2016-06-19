@@ -15,7 +15,7 @@ import Node.Path
 import Node.FS (FS(..))
 import Node.FS.Sync (writeTextFile, exists, unlink)
 
-import qualified Test.Spec as S
+import Test.Spec as S
 import Test.Spec.Console
 import Test.Spec.Summary
 import Test.Spec.Reporter
